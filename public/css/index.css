@@ -1,0 +1,57 @@
+/* body {
+    background-image: url(split_background_reduced.jpg);
+    background-size: cover;
+    background-position: center;
+} */
+
+body {
+    background: linear-gradient(90deg, #ffffff 50%, #000000 50%);
+}
+
+h1 {
+    color: #ffffff;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 8vw;
+}
+
+h1 a {
+    color: #ffffff;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 8vw;
+    text-decoration: none;
+}
+
+h1 a:hover {
+    color: #665C59;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.links a {
+    font-family: 'Noto Sans TC', sans-serif;
+    color: #000000;
+    font-size: 5vw;
+    text-decoration: none;
+}
+
+.links a:hover {
+    color: #EC3C17;
+}
+
+.icons a {
+	font-size: 5vw;
+    color: #000000;
+}
+
+.icons a:hover {
+    color: #EC3C17;
+}
+
+h2 {
+	color: #000000;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 6vw;
+}
+
