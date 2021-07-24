@@ -55,3 +55,24 @@ h2 {
     font-size: 6vw;
 }
 
+h3 {
+    color: #000000;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 4vw;
+}
+
+p {
+    font-size: 0.75vw;
+}
+
+#small-link {
+    font-size: 0.75vw;
+    text-decoration: none;
+    color: #EC3C17;
+}
+
+#small-link:hover {
+    color: #665C59;
+}
+
+

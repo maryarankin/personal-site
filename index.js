@@ -16,6 +16,10 @@ app.get('/projects', (req, res) => {
     res.render('projects')
 })
 
+app.get('/about', (req, res) => {
+    res.render('about')
+})
+
 const port = process.env.PORT || 3000
 app.listen(port, () => {
     console.log('serving on port 3000')
